@@ -1,0 +1,10 @@
+A0->A19=water,-2000
+B1->B19=road,420
+C1->C19=track,250
+D0->T19=building
+C2=train red
+A16=boat blue
+B2=car red
+B5=car blue
+C11=train blue
+E11=rogue blue
